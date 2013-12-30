@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSOnlineCode", "VSOnlineCode\VSOnlineCode.csproj", "{ECDECF28-B184-442C-9DD1-1857A2E71FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDECF28-B184-442C-9DD1-1857A2E71FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDECF28-B184-442C-9DD1-1857A2E71FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDECF28-B184-442C-9DD1-1857A2E71FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDECF28-B184-442C-9DD1-1857A2E71FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
